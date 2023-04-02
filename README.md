@@ -52,7 +52,10 @@
     <img src="https://img.shields.io/badge/Nice-000000?style=for-the-badge&logoColor=white&logo=42" style="vertical-align: middle" />
   </h4>
   <div align="center">
+    <img src="https://badge.mediaplus.ma/binary/cpugnair?1337Badge=off&UM6P=off" alt="cpugnair's 42 stats" />
+    <!-- 
     <img src="https://badge42.vercel.app/api/v2/clc7dr61y00970fl30q9dfdrq/stats?cursusId=21&coalitionId=122" />
+    -->
   </div>
     <h4 align="center">
     <span style="vertical-align: middle">📚 I’m currently learning </span>
@@ -67,8 +70,12 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
+      <!--
       libft<br />
       <img src="https://badge42.vercel.app/api/v2/clc7dr61y00970fl30q9dfdrq/project/2868173" alt="cpugnair's 42 Libft Score" />
+      -->
+      <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/libft-bonus.png" alt="Libft" style="max-width: 100%;">
+      <p>125 / 100</p>
     </td>
   </tr>
   <tr>
@@ -76,16 +83,27 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <!--
       printf<br />
       &nbsp;
+      -->
+      <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/ft_printf.png" alt="ft_printf" style="max-width: 100%;">
+      <p>100 / 100</p>
     </td>
     <td align="center" colspan="2">
+      <!--
       Born2beRoot<br />
       &nbsp;
+      -->
+      <p>Born2BeRoot</p>
     </td>
     <td align="center" colspan="2">
+      <!--
       gnl<br />
       &nbsp;
+      -->
+      <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_line-bonus.png" alt="get_next_line" style="max-width: 100%;">
+      <p>125 / 100</p>
     </td>
   </tr>
 </table>
