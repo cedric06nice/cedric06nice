@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
   <h1 align="center" style="border:none"> 👋 Hi, I am Cedric <h1>
-  <h3 align="center" style="border:none"> A french multiskilled AppleOS developer<h3>
+  <h3 align="center" style="border:none"> A multiskilled mobile developer<h3>
   <hr />
   <div>
     <img src="https://img.shields.io/badge/Apple%20Products-000000?style=for-the-badge&logoColor=white&logo=apple" />
@@ -53,7 +53,7 @@
   </h4>
   <div align="center">
     <img src="https://badge.mediaplus.ma/binary/cpugnair?1337Badge=off&UM6P=off" alt="cpugnair's 42 stats" />
-    <!-- 
+    <!--
     <img src="https://badge42.vercel.app/api/v2/clc7dr61y00970fl30q9dfdrq/stats?cursusId=21&coalitionId=122" />
     -->
   </div>
@@ -64,48 +64,102 @@
     <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logoColor=white&logo=virtualbox" style="vertical-align: middle" />
     <span style="vertical-align: middle"> at school</span>
   </h4>
-<table align="center">
-  <tr>
-    <td align="center" colspan="6"><b>Level 0</b></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6">
-      <!--
-      libft<br />
-      <img src="https://badge42.vercel.app/api/v2/clc7dr61y00970fl30q9dfdrq/project/2868173" alt="cpugnair's 42 Libft Score" />
-      -->
-      <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/libft-bonus.png" alt="Libft" style="max-width: 100%;">
-      <p>125 / 100</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6"><b>Level 1</b></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <!--
-      printf<br />
-      &nbsp;
-      -->
-      <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/ft_printf.png" alt="ft_printf" style="max-width: 100%;">
-      <p>100 / 100</p>
-    </td>
-    <td align="center" colspan="2">
-      <!--
-      Born2beRoot<br />
-      &nbsp;
-      -->
-      <p>Born2BeRoot</p>
-    </td>
-    <td align="center" colspan="2">
-      <!--
-      gnl<br />
-      &nbsp;
-      -->
-      <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_line-bonus.png" alt="get_next_line" style="max-width: 100%;">
-      <p>125 / 100</p>
-    </td>
-  </tr>
-</table>
+    <table align="center" style="border-spacing: 0px; border-collapse: collapse; margin: 20px;">
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="4" style="background-color: black;">
+					<div style="color: white; padding: 8px; font-size: larger;">Level 0</div>
+				</td>
+			</tr>
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="4" style="width: 100%;">
+					<!--
+			libft<br />
+			<img src="https://badge42.vercel.app/api/v2/clc7dr61y00970fl30q9dfdrq/project/2868173" alt="cpugnair's 42 Libft Score" />
+			-->
+					<img src="./42-badges/libft-bonus.png" alt="Libft" style="max-width: 100%;">
+					<div style="padding: 10px; margin-bottom: 6px; color: white;">
+						<span style="padding: 8px; background-color: green;">
+						<span style="font-size: large; font-weight: 600;"> 125 </span>
+						<span style="font-size: smaller;"> /100 </span>
+						</span>
+					</div>
+				</td>
+			</tr>
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="4" style="background-color: black;">
+					<div style="color: white; padding: 8px; font-size: larger;">Level 1</div>
+				</td>
+			</tr>
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
+					<img src="./42-badges/ft_printf.png" alt="ft_printf" style="max-width: 100%;">
+					<div style="padding: 10px; margin-bottom: 6px; color: white;">
+						<span style="padding: 8px; background-color: green;">
+							<span style="font-size: large; font-weight: 600;"> 100 </span>
+							<span style="font-size: smaller;"> /100 </span>
+						</span>
+					</div>
+				</td>
+				<td align="center" colspan="2" style="width: 33%; border: 2px solid black;">
+					<div>
+						<p style="font-weight: 600;">Born2BeRoot</p>
+						<p style="font-size: x-small;">Finished (To be validated)</p>
+					</div>
+				</td>
+				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
+					<img src="./42-badges/get_next_line-bonus.png" alt="get_next_line" style="max-width: 100%;">
+					<div style="padding: 10px; margin-bottom: 6px; color: white;">
+						<span style="padding: 8px; background-color: green;">
+							<span style="font-size: large; font-weight: 600;"> 125 </span>
+							<span style="font-size: smaller;"> /100 </span>
+						</span>
+					</div>
+				</td>
+			</tr>
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="4" style="background-color: black;">
+					<div style="color: white; padding: 8px; font-size: larger;">Level 2</div>
+				</td>
+			</tr>
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
+					<div>
+						<p style="font-weight: 600;">MiniTalk</p>
+						<p style="font-size: x-small;">Finished (To be validated)</p>
+					</div>
+				</td>
+				<td align="center" colspan="2" style="width: 33%; border: 2px solid black;">
+					<div>
+						<p style="font-weight: 600;">SoLong</p>
+						<p style="font-size: x-small;">Finished (To be validated)</p>
+					</div>
+				</td>
+				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
+					<div>
+						<p style="font-weight: 600;">Push_Swap</p>
+						<p style="font-size: x-small;">Finished (To be validated)</p>
+					</div>
+				</td>
+			</tr>
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="4" style="background-color: black;">
+					<div style="color: white; padding: 8px; font-size: larger;">Level 3</div>
+				</td>
+			</tr>
+			<tr style="border: 2px solid black;">
+				<td align="center" colspan="2" style="width: 50%; border: 2px solid black;">
+					<div>
+						<p style="font-weight: 600;">Philosophers</p>
+						<p style="font-size: x-small;">Started</p>
+					</div>
+				</td>
+				<td align="center" colspan="2" style="width: 50%; border: 2px solid black;">
+					<div>
+						<p style="font-weight: 600;">MiniShell</p>
+						<p style="font-size: x-small;">&nbsp;</p>
+					</div>
+				</td>
+			</tr>
+		</table>
   </div>
 </div>
