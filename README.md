@@ -123,15 +123,23 @@
 			</tr>
 			<tr style="border: 2px solid black;">
 				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
+					<img src="./42-badges/minitalk-bonus.png" alt="minitalk" style="max-width: 100%;">
 					<div>
 						<p style="font-weight: 600;">MiniTalk</p>
-						<p style="font-size: x-small;">Finished (To be validated)</p>
+						<span style="padding: 8px; background-color: green;">
+							<span style="font-size: large; font-weight: 600;"> 80 </span>
+							<span style="font-size: smaller;"> /100 </span>
+						</span>
 					</div>
 				</td>
 				<td align="center" colspan="2" style="width: 33%; border: 2px solid black;">
+					<img src="./42-badges/so_long-bonus.png.png" alt="so_long" style="max-width: 100%;">
 					<div>
 						<p style="font-weight: 600;">SoLong</p>
-						<p style="font-size: x-small;">Finished (To be validated)</p>
+						<span style="padding: 8px; background-color: green;">
+							<span style="font-size: large; font-weight: 600;"> 120 </span>
+							<span style="font-size: smaller;"> /100 </span>
+						</span>
 					</div>
 				</td>
 				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
