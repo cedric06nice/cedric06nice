@@ -103,7 +103,6 @@
 				<td align="center" colspan="2" style="width: 33%; border: 2px solid black;">
 					<img src="./42-badges/born2beroot-bonus.png" alt="Born2BeRoot" style="max-width: 100%;">
 					<div>
-						<p style="font-weight: 600;">Born2BeRoot</p>
 						<span style="padding: 8px; background-color: green;">
 							<span style="font-size: large; font-weight: 600;"> 90 </span>
 							<span style="font-size: smaller;"> /100 </span>
@@ -129,7 +128,6 @@
 				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
 					<img src="./42-badges/minitalk-bonus.png" alt="minitalk" style="max-width: 100%;">
 					<div>
-						<p style="font-weight: 600;">MiniTalk</p>
 						<span style="padding: 8px; background-color: green;">
 							<span style="font-size: large; font-weight: 600;"> 125 </span>
 							<span style="font-size: smaller;"> /100 </span>
@@ -139,7 +137,6 @@
 				<td align="center" colspan="2" style="width: 33%; border: 2px solid black;">
 					<img src="./42-badges/so_long-bonus.png" alt="so_long" style="max-width: 100%;">
 					<div>
-						<p style="font-weight: 600;">SoLong</p>
 						<span style="padding: 8px; background-color: green;">
 							<span style="font-size: large; font-weight: 600;"> 120 </span>
 							<span style="font-size: smaller;"> /100 </span>
@@ -168,7 +165,7 @@
 				<td align="center" colspan="2" style="width: 50%; border: 2px solid black;">
 					<div>
 						<p style="font-weight: 600;">MiniShell</p>
-						<p style="font-size: x-small;">&nbsp;</p>
+						<p style="font-size: x-small;">Started</p>
 					</div>
 				</td>
 			</tr>
