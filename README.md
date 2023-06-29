@@ -144,9 +144,12 @@
 					</div>
 				</td>
 				<td align="center" colspan="1" style="width: 33%; border: 2px solid black;">
+					<img src="./42-badges/push_swap.png" alt="push_swap" style="max-width: 100%;">
 					<div>
-						<p style="font-weight: 600;">Push_Swap</p>
-						<p style="font-size: x-small;">Finished (To be validated)</p>
+						<span style="padding: 8px; background-color: green;">
+							<span style="font-size: large; font-weight: 600;"> 100 </span>
+							<span style="font-size: smaller;"> /100 </span>
+						</span>
 					</div>
 				</td>
 			</tr>
