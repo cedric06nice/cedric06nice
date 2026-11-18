@@ -18,7 +18,7 @@ Open to junior roles: fully remote, or hybrid in Manchester.
 
 ## Team project
 
-**Purple Giraffe messenger challenge (2021):** a group chat with a [Vapor REST and WebSocket API](https://github.com/cedric06nice/CloudMessengerAPI), built with two other students (I did the auth, messages and moderation), and my [SwiftUI client](https://github.com/cedric06nice/PGMessengerApp).
+**PG Messenger (2021–2022):** a group chat published on the App Store and Google Play, built by a team of four for a Purple Giraffe challenge: a [Flutter app](https://github.com/QuentinDeviOS/pg_messenger) on a [Swift (Vapor) REST and WebSocket API](https://github.com/cedric06nice/CloudMessengerAPI). I built the API's authentication, messages and moderation, and in the app the moderation tools, password change, English/French translation and release builds. Also: my [SwiftUI prototype client](https://github.com/cedric06nice/PGMessengerApp).
 
 ## Stack
 
