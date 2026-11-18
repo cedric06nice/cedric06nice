@@ -16,6 +16,10 @@ Open to junior roles: fully remote, or hybrid in Manchester.
 | **Eat Out To Help Out Calculator** | Built in five days for a UK government scheme; 1,325 downloads | [Page](https://cedric06nice.com/portfolio/item/eat-out-to-help-out-calculator/) · [Code](https://github.com/cedric06nice/EOTHO) |
 | **Caesar Cipher** | My first App Store app; 8,200+ downloads | [Page](https://cedric06nice.com/portfolio/item/caesar-cipher/) · [Code](https://github.com/cedric06nice/Caesar-Cipher) |
 
+## Team project
+
+**Purple Giraffe messenger challenge (2021):** a group chat with a [Vapor REST and WebSocket API](https://github.com/cedric06nice/CloudMessengerAPI), built with two other students (I did the auth, messages and moderation), and my [SwiftUI client](https://github.com/cedric06nice/PGMessengerApp).
+
 ## Stack
 
 Swift · SwiftUI · Flutter/Dart · TypeScript · SQL · TDD · Hono on Bun · Directus · Firebase · Docker · Fastlane · Xcode Cloud
